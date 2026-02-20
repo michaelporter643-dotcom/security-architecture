@@ -2,7 +2,7 @@
 # ⚠️ SECURITY ISSUE: These packages are VERY outdated and have known vulnerabilities!
 
 # Web Framework (extremely old version with CVEs)
-flask==0.12.2
+flask==3.1.3
 
 # HTTP Library (2014 version - ancient!)
 requests==2.6.0
