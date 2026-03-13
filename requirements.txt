@@ -17,7 +17,7 @@ sqlalchemy==1.0.0
 cryptography==2.0
 
 # JWT Library (old version)
-pyjwt==1.5.0
+pyjwt==2.12.0
 
 # Template Engine (old Jinja2)
 jinja2==2.8
